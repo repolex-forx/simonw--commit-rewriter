@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "commit-rewriter",
+  "versions": [
+    {
+      "commit": "239658841f4475ed102058c5912f1d0dfe7c43e5",
+      "tag": "0.2",
+      "parsed_at": "2026-10-20T10:14:49.903118+00:00"
+    }
+  ]
+}
