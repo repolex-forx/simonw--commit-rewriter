@@ -1,0 +1,7 @@
+[2026-10-20T10:13:38Z] === AST ITERATION 1 START | repo=simonw/commit-rewriter sha=23965884 ===
+[2026-10-20T10:13:38Z] [iter=1] PHASE START: ast repo=simonw/commit-rewriter sha=23965884
+[2026-10-20T10:13:38Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T10:13:46Z] [iter=1] AST chunks built count=1 triples=77823
+[2026-10-20T10:13:46Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/239658841f4475ed102058c5912f1d0dfe7c43e5/.complete
+[2026-10-20T10:13:46Z] [iter=1] PHASE END: ast elapsed_s=7 elapsed_min=0.1
+[2026-10-20T10:13:46Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
